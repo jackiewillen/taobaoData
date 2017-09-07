@@ -9,4 +9,8 @@ this text is edit by jackie ubuntu
 
 this iss the forth add
 
-this is the fixth time to add  
+this is the fixth time to add 
+
+this is the sixth time to add something 
+
+this is test for none fast forward
