@@ -2,3 +2,6 @@ this is ubuntu2
 test none fast forward branch
 
 second test none fast forward branch
+ 
+
+second add none
