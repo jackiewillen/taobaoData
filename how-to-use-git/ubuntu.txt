@@ -11,5 +11,11 @@ this iss the forth add
 
 this is the fixth time to add  
 
+<<<<<<< HEAD
 this is added by maste
 r   added by qiqi
+=======
+this is added by master
+
+add by master second 
+>>>>>>> 41fbaefbbf20942f62b4cc5793f9abb387293b90
